@@ -1,0 +1,1 @@
+The minimum bits required to identify [[sampleCount|sampleDim]]. For example, if there are 9 samples, `sdimBits` will be 4. Since we need at least 4 bits to represent 9 possible samples. If there are only 8 samples, then `sdimBits` will be 3.

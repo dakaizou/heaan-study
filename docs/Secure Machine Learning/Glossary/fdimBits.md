@@ -1,0 +1,1 @@
+The minimum bits required to identify [[featureCount|factorDim]]. For example, if there are 9 features, `fdimBits` will be 4. Since we need at least 4 bits to represent 9 possible features. If there are only 8 features, then `fdimBits` will be 3.

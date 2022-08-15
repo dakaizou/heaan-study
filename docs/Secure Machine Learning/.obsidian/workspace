@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "d4d199bbba0867e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2747549bb9c3618b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Glossary/aBits.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe39ac9e0c3543c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bea5ebc809889a91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0179d8d561f09d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d0dbdaba5e784dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12522287dd669416",
+    "type": "split",
+    "children": [
+      {
+        "id": "514639e45783d328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06a499a95071391e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Glossary/aBits.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281
+  },
+  "active": "2747549bb9c3618b",
+  "lastOpenFiles": [
+    "Glossary/lBits.md",
+    "IDASH/CipherGD.md",
+    "Glossary/logQ.md",
+    "Glossary/logP.md",
+    "IDASH/TestGD.md",
+    "Glossary/batch.md",
+    "Glossary/aBits.md",
+    "Glossary/wBits.md",
+    "Glossary/sdimBits.md",
+    "Glossary/sampleCount.md"
+  ]
+}

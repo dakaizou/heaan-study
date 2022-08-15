@@ -1,0 +1,1 @@
+Refers to the number of samples (i.e. the number of rows) in the training file. The original variable name was `sampleDim`, sample dimension.

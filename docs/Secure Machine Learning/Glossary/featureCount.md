@@ -1,0 +1,1 @@
+Refers to the number of features (i.e. the number of columns) in the training file. The original variable name was `factorDim`, factor dimension.

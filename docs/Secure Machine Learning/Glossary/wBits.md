@@ -1,0 +1,1 @@
+The bit length of a single number to be encrypted. Default to `30`.

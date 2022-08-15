@@ -1,0 +1,8 @@
+- [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/checkpoint-advanced-lessons) from Khan Academy
+- [Abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra)
+- [Introduction to Homomorphic Encryption](https://www.youtube.com/watch?v=umqz7kKWxyw) (by Pascal Paillier)
+- [Intro to Homomorphic Encryption](https://www.youtube.com/watch?v=SEBdYXxijSo) by Microsoft
+- Other introductory material
+    - [Homomorphic Encryption for Beginners: A Practical Guide](https://medium.com/privacy-preserving-natural-language-processing/homomorphic-encryption-for-beginners-a-practical-guide-part-1-b8f26d03a98a)
+    - [An Intro to Fully Homomorphic Encryption for Engineers](https://blog.nucypher.com/an-engineers-guide-to-fully-homomorphic-encryption/)
